@@ -7,3 +7,9 @@ bin/*
 
 .kitchen/
 .kitchen.local.yml
+.food/
+.waste.calculator.yml
+.using
+
+/artificial 
+.intelligence
